@@ -64,7 +64,9 @@ export const CLIENTS = {
     SDK_VERSION: 32,
     DEVICE_MAKE: 'Oculus',
     DEVICE_MODEL: 'Quest 3',
-    USER_AGENT: 'com.google.android.apps.youtube.vr.oculus/1.65.10 (Linux; U; Android 12L; eureka-user Build/SQ3A.220605.009.A1) gzip'
+    USER_AGENT: 'com.google.android.apps.youtube.vr.oculus/1.65.10 (Linux; U; Android 12L; eureka-user Build/SQ3A.220605.009.A1) gzip',
+    OS_NAME: 'Android',
+    OS_VERSION: '12L'
   },
   YTSTUDIO_ANDROID: {
     NAME: 'ANDROID_CREATOR',
